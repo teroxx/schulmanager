@@ -1,0 +1,2 @@
+# schulmanager
+Inofficial Schulmanager API
